@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.sample</groupId>
 	<artifactId>app</artifactId>
-	<version>0.1.0</version>
+	<version>0.1.1-SNAPSHOT</version>
 	<name>Sample App</name>
 	<description>Sample app for Vienna Tech Conference</description>
 	<url/>
