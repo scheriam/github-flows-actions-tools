@@ -53,6 +53,8 @@ A simple Spring Boot application displaying an index and a greetings page:
 - Run `mvn spring-boot:run` to start the app
 - Navigate to localhost:8080 with a browser
 
+## hidden stuff
+
 
 Follow the tasks in the workshop :rocket:
 
