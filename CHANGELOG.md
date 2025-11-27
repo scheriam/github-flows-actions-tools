@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.0](https://github.com/scheriam/github-flows-actions-tools/compare/v0.0.1...v0.1.0) (2025-11-27)
+
+
+### Features
+
+* hidden stuff ([d10a7c4](https://github.com/scheriam/github-flows-actions-tools/commit/d10a7c4b01992867635d2cdcaff5c8fd54ab8090))
+
 ## 0.0.1 (2025-11-27)
 
 
