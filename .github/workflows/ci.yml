@@ -23,7 +23,7 @@ jobs:
         run: ./mvnw clean install
       - name: Upload target directories as artifact
         continue-on-error: true
-        uses: actions/upload-artifact@v5
+        uses: actions/upload-artifact@v6
         with:
           name: "sample-app"
           path: "./**/target/*"
